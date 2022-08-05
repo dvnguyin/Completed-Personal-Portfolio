@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%20//github.com/dvnguyin/Completed-Personal-Portfolio.git/static/css/main.46e7d775.css",
+    "main.js": "/%20//github.com/dvnguyin/Completed-Personal-Portfolio.git/static/js/main.3d979434.js",
+    "index.html": "/%20//github.com/dvnguyin/Completed-Personal-Portfolio.git/index.html",
+    "main.46e7d775.css.map": "/%20//github.com/dvnguyin/Completed-Personal-Portfolio.git/static/css/main.46e7d775.css.map",
+    "main.3d979434.js.map": "/%20//github.com/dvnguyin/Completed-Personal-Portfolio.git/static/js/main.3d979434.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46e7d775.css",
+    "static/js/main.3d979434.js"
+  ]
+}
